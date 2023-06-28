@@ -45,6 +45,7 @@ kalyanreddy@Kalyans-Mac-mini-2 ~ %
 docker ps
 docker ps -a
 docker ps -a -q
+d
 ```
 
 ## Step-5: Connect to Container Terminal
